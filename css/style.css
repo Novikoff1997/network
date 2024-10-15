@@ -1,0 +1,29 @@
+.avatar {
+  object-fit: cover;
+}
+a {
+  text-decoration: none;
+}
+.bg-cover {
+  background-color: rgb(240, 214, 155);
+}
+.edit-group:hover {
+  background-color: gray;
+}
+
+.status:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.separ-line {
+  background-color: #cde9fa;
+  color: #438de0;
+}
+.img-open:hover {
+  cursor: pointer;
+}
+
+#post {
+  min-height: 70px;
+  border: 2px solid #91a5aa;
+}
